@@ -6,3 +6,5 @@
 ###### Dingus 6
 
 Dingus gettin committed over here, boys
+
+![The Dingus](https://octodex.github.com/images/yaktocat.png)
